@@ -1,5 +1,5 @@
 # Telegram-Parser-CLI
-Parser Telegram chats written in php using MadelineProto
+Parser Telegram chats written in php using [MadelineProto](https://github.com/danog/MadelineProto)
 
 Available versions: **PHP 5.6+**
 
